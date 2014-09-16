@@ -55,7 +55,6 @@
     <Compile Include="Sorting\InsertionSortSolution.cs" />
     <Compile Include="Easy\LoveLetterSolution.cs" />
     <Compile Include="Easy\MaxXORSolution.cs" />
-    <Compile Include="Easy\SampleSolution.cs" />
     <Compile Include="Easy\SherlockSolution.cs" />
     <Compile Include="Interview\NonReoccuringSolution.cs" />
     <Compile Include="Interview\Palindrome.cs" />
